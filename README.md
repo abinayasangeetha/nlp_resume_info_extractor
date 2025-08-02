@@ -22,7 +22,7 @@ This project is an NLP-based system to extract structured information (Name, Ski
 ##  Setup Instructions
 
 ```bash
-git clone https://github.com/aryabaisakhiya/resume_parser_ner.git
+git clone https://github.com/abinayasangeetha/nlp_resume_info_extractor.git
 cd resume_parser_ner
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
